@@ -1,0 +1,22 @@
+  .search-bar {
+	  position: absolute;
+	  z-index: 1;
+	  top: 100px;
+	  width: 100%;
+	  margin-top: 150px;
+	  margin-left: 50px;
+
+  }
+
+  /* .form-control {
+  } */
+
+  .image {
+	  height: 120px;
+	  width: 200px;
+  }
+
+  #sbarbtn {
+	padding: 14px 40px;
+  }
+ 
